@@ -1,4 +1,4 @@
-package io.github.thiminhnhut.singletonexamples
+package io.github.thiminhnhut.singleton
 
 import android.content.Intent
 import android.os.Bundle

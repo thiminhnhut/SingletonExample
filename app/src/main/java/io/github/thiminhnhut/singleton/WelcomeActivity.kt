@@ -1,4 +1,4 @@
-package io.github.thiminhnhut.singletonexamples
+package io.github.thiminhnhut.singleton
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

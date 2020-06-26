@@ -1,4 +1,4 @@
-package io.github.thiminhnhut.singletonexamples
+package io.github.thiminhnhut.singleton
 
 class SingletonSession private constructor(){
     private lateinit var username: String
