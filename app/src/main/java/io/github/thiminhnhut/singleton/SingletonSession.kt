@@ -1,6 +1,6 @@
 package io.github.thiminhnhut.singleton
 
-class SingletonSession private constructor(){
+class SingletonSession private constructor() {
     private lateinit var username: String
 
     init {

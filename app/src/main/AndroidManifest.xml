@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="io.github.thiminhnhut.singleton.WelcomeActivity"/>
+        <activity android:name="io.github.thiminhnhut.singleton.WelcomeActivity" />
     </application>
 
 </manifest>
